@@ -99,25 +99,12 @@ JWT_SECRET=your_secret_key
 ## ⚙️ Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/akashroy18/Zorvyn.git
 cd ZORVYN
 npm install
 node server.js
 ```
 
----
-
-## 🧪 API Testing
-
-You can test APIs using Postman.
-
-📁 Postman Collection included in:
-
-```
-/postman/finance-dashboard-api.postman_collection.json
-```
-
----
 
 ## 📄 API Documentation
 
